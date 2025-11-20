@@ -17,8 +17,8 @@ Display the rotated linked list.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: SUBBIAH S 
-RegisterNumber: 212223220111
+Developed by: Vamsi Krishna G
+RegisterNumber: 212223220120
 
 
 import java.util.Scanner;
@@ -125,8 +125,8 @@ To write a java  program that removes all nodes from a linked list whose value m
 ```
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: SUBBIAH S
-RegisterNumber: 212223220111
+Developed by: Vamsi Krishna G
+RegisterNumber: 212223220120
 
 
 */
@@ -225,8 +225,8 @@ If there is no cycle, the program should return null without modifying the linke
  /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
-Developed by: SUBBIAH S
-RegisterNumber: 212223220111
+Developed by: Vamsi Krishna G
+RegisterNumber: 212223220120
 
 */
 class DetectCycle {
@@ -324,8 +324,8 @@ The task is to return the maximum size among all such sets.
 ```
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: SUBBIAH S
-RegisterNumber: 212223220111
+Developed by: Vamsi Krishna G
+RegisterNumber: 212223220120
 
 */
 import java.util.Scanner;
@@ -412,8 +412,8 @@ To design and implement a class NestedIterator that flattens a nested list of in
 ```
 /*
 Program to find Flattening a Nested List Using an Iterator
-Developed by: SUBBIAH S
-RegisterNumber: 212223220111
+Developed by: Vamsi Krishna G
+RegisterNumber: 212223220120
 
 import java.util.*;
 
